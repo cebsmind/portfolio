@@ -27,3 +27,4 @@
   - *Interpreted model outcomes and discussed potential implications.*
   - *Used "Learning Curves" to have a better view of our model performance and see if our model is over fitting or not*
 
+* **Submitted my predictions to Kaggle and ranked in the top 27% on the leaderboard**
