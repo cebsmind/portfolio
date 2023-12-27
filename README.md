@@ -1,8 +1,8 @@
 # [PROJECT 1 : Spaceship Titanic :](https://github.com/cebsmind/portfolio/blob/main/TitanicSpaceShip.ipynb) 
 - [Competition link (from kaggle)](https://www.kaggle.com/competitions/spaceship-titanic)
-- [Python Note book code](https://github.com/cebsmind/portfolio/blob/main/TitanicSpaceShip.ipynb))
+- [Python Note book code](https://github.com/cebsmind/portfolio/blob/main/TitanicSpaceShip.ipynb)
   
-* **What I Have Learned**:
+## What I Have Learned:
 1. *Enhanced proficiency in data preprocessing techniques.*
 2. *Gained hands-on experience in using Python for data analysis and machine learning.*
 3. *Developed skills in model evaluation and interpretation.*
@@ -41,7 +41,7 @@
 - [SQL code](https://github.com/cebsmind/portfolio/blob/main/SQL-code)
 - [Tableau visualisation](https://public.tableau.com/app/profile/cebrail/viz/ImmunizationFlu/Tableaudebord1)
   
-### Objectives : Create flu shots dashboard for 2022 that does the following
+## Objectives : Create flu shots dashboard for 2022 that does the following
 1. *Total % of patients getting flu shots stratified by*
    - Age
    - Race
@@ -54,7 +54,7 @@
    
 ## Key steps :
 
-* **Used SQL (PostgreSQL) to clean, filter, and prepare the data for analysis.**
+* **Used SQL (PostgreSQL) to clean, filter, and prepare the data for Tableau.**
   
 * **Utilized Tableau's functionalities to create a variety of visualizations :**
   - *Flu Shots by Age (Barchart)*
@@ -63,7 +63,7 @@
   - *Running sum Flu Shots 2022*
   - *Flu Shots List*
     
-* **Final Dashboard** :
+* **Dashboard preview :** 
 
 ![](https://github.com/cebsmind/portfolio/blob/main/images/DataFluShots.png?raw=true)
 
