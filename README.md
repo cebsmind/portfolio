@@ -40,7 +40,7 @@
 - [Data source](https://github.com/cebsmind/portfolio/tree/main/sql-data)
 - [SQL code](https://github.com/cebsmind/portfolio/blob/main/SQL-code)
 - [Tableau visualisation](https://public.tableau.com/app/profile/cebrail/viz/ImmunizationFlu/Tableaudebord1)
-  
+- Note : all of this data is synthetically generated (i.e. fake), and comes from a project called Synthea.
 ## Objectives : Create flu shots dashboard for 2022 that does the following
 1. *Total % of patients getting flu shots stratified by*
    - Age
