@@ -1,5 +1,7 @@
 # [PROJECT 1 : Spaceship Titanic :](https://github.com/cebsmind/portfolio/blob/main/TitanicSpaceShip.ipynb) 
-[Competition link (from kaggle)](https://www.kaggle.com/competitions/spaceship-titanic)
+- [Competition link (from kaggle)](https://www.kaggle.com/competitions/spaceship-titanic)
+- [Python Note book code](https://github.com/cebsmind/portfolio/blob/main/TitanicSpaceShip.ipynb))
+  
 * **What I Have Learned**:
 1. *Enhanced proficiency in data preprocessing techniques.*
 2. *Gained hands-on experience in using Python for data analysis and machine learning.*
@@ -35,8 +37,11 @@
 
 
 # [PROJECT 2 : Immunization (COVID-19) Project](https://public.tableau.com/app/profile/cebrail/viz/ImmunizationFlu/Tableaudebord1)
-#### Note : All data is synthetically generated (i.e. fake) and was generated from Synthea
-#### Objectives : Create flu shots dashboard for 2022 that does the following
+- [Data source](https://github.com/cebsmind/portfolio/tree/main/sql-data)
+- [SQL code](https://github.com/cebsmind/portfolio/blob/main/SQL-code)
+- [Tableau visualisation](https://public.tableau.com/app/profile/cebrail/viz/ImmunizationFlu/Tableaudebord1)
+  
+### Objectives : Create flu shots dashboard for 2022 that does the following
 1. *Total % of patients getting flu shots stratified by*
    - Age
    - Race
@@ -49,13 +54,16 @@
    
 ## Key steps :
 
-* **Used PostgreSQL to extract the data we need to do our dashboard on Tableau**
-    - 
+* **Used SQL (PostgreSQL) to clean, filter, and prepare the data for analysis.**
+  
 * **Utilized Tableau's functionalities to create a variety of visualizations :**
   - *Flu Shots by Age (Barchart)*
   - *Flu Shots by Race (Barchart)*
   - *Flu Shots By County (Map)*
   - *Running sum Flu Shots 2022*
   - *Flu Shots List*
+    
+* **Final Dashboard** :
 
+![](https://github.com/cebsmind/portfolio/blob/main/images/DataFluShots.png?raw=true)
 
