@@ -1,4 +1,4 @@
-#Cebrail Portfolio
+# Cebrail Portfolio
 
 # [PROJECT 1 : Spaceship Titanic :](https://github.com/cebsmind/portfolio/blob/main/TitanicSpaceShip.ipynb) 
 - [Competition link (from kaggle)](https://www.kaggle.com/competitions/spaceship-titanic)
