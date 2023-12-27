@@ -1,5 +1,3 @@
-# Cebrail Portfolio
-
 # [PROJECT 1 : Spaceship Titanic :](https://github.com/cebsmind/portfolio/blob/main/TitanicSpaceShip.ipynb) 
 * **What I Have Learned**:
 1. *Enhanced proficiency in data preprocessing techniques.*
