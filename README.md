@@ -8,8 +8,8 @@
 ## Key steps :
 
 * **Exploratory Data Analysis (EDA)**:
-  - Utilized Pandas for comprehensive data exploration.
-  - Employed Matplotlib & Seaborn for creating visualizations to gain meaningful insights into the dataset.
+  - *Utilized Pandas for comprehensive data exploration.*
+  - *Employed Matplotlib & Seaborn for creating visualizations to gain meaningful insights into the dataset.*
 
 * **Data Preprocessing**:
   - *Cleaned and prepared the dataset for analysis and modelisation*
@@ -35,3 +35,27 @@
 
 
 # [PROJECT 2 : Immunization (COVID-19) Project](https://public.tableau.com/app/profile/cebrail/viz/ImmunizationFlu/Tableaudebord1)
+#### Note : All data is synthetically generated (i.e. fake) and was generated from Synthea
+#### Objectives : Create flu shots dashboard for 2022 that does the following
+1. *Total % of patients getting flu shots stratified by*
+   - Age
+   - Race
+   - County (On a Map)
+   - Overall
+   
+2. *Running Total of Flu Shots over the course of 2022*
+3. *Total number of Flu shots given in 2022*
+4. *A list of Patients that show whether or not they received the flu shots*
+   
+## Key steps :
+
+* **Used PostgreSQL to extract the data we need to do our dashboard on Tableau**
+    - 
+* **Utilized Tableau's functionalities to create a variety of visualizations :**
+  - *Flu Shots by Age (Barchart)*
+  - *Flu Shots by Race (Barchart)*
+  - *Flu Shots By County (Map)*
+  - *Running sum Flu Shots 2022*
+  - *Flu Shots List*
+
+
