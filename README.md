@@ -31,3 +31,6 @@
 
 
 * **Submitted my predictions to Kaggle and ranked in the top 27% on the leaderboard**
+
+
+# [PROJECT 2 : Immunization (COVID-19) Project](https://public.tableau.com/app/profile/cebrail/viz/ImmunizationFlu/Tableaudebord1)
