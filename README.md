@@ -1,4 +1,5 @@
 # [PROJECT 1 : Spaceship Titanic :](https://github.com/cebsmind/portfolio/blob/main/TitanicSpaceShip.ipynb) 
+[Competition link (from kaggle)](https://www.kaggle.com/competitions/spaceship-titanic)
 * **What I Have Learned**:
 1. *Enhanced proficiency in data preprocessing techniques.*
 2. *Gained hands-on experience in using Python for data analysis and machine learning.*
