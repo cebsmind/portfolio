@@ -1,6 +1,6 @@
 # Cebrail Portfolio
 
-# PROJECT 1 : Spaceship Titanic : Project Overview
+# PROJECT 1 : Spaceship Titanic : 
 * **What I Have Learned**:
 1. *Enhanced proficiency in data preprocessing techniques.*
 2. *Gained hands-on experience in using Python for data analysis and machine learning.*
