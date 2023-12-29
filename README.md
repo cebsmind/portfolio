@@ -77,8 +77,6 @@
 ## Objectives : 
 In this project, I endeavored to delve into the realm of Natural Language Processing (NLP) by constructing a foundational model. Leveraging a Twitter Sentiment Dataset sourced from Kaggle, the aim was to predict the sentiment of text, specifically tweets. The primary goal was to initiate my journey into understanding how machines interpret human text and the methodologies involved in its analysis.
 
-Through this experience, I sought to grasp the fundamentals of NLP, exploring how machines comprehend and process textual information. This project was a captivating learning opportunity, providing invaluable insights into the intricate steps essential for building a robust sentiment analysis model.
-
 While this project marked the initial steps in my NLP exploration, it underscored the significance of continued learning. There remains an abundance to explore and comprehend in this dynamic field, and this foundational project serves as a springboard for delving into more sophisticated models and techniques in the future.
   
 ## Key Steps :
