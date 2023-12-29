@@ -69,3 +69,38 @@
 
 ![](https://github.com/cebsmind/portfolio/blob/main/images/DataFluShots.png?raw=true)
 
+
+# [PROJECT 3 : Twitter Sentiment Analysis (NLP) :](https://github.com/cebsmind/portfolio/blob/main/Tweeter%20Sentiment%20Analysis%20Beginner.ipynb) 
+- [Data Set link (from kaggle)](https://www.kaggle.com/datasets/kazanova/sentiment140)
+- [Python Note book code](https://github.com/cebsmind/portfolio/blob/main/Tweeter%20Sentiment%20Analysis%20Beginner.ipynb)
+
+## Objectives : 
+In this project, I endeavored to delve into the realm of Natural Language Processing (NLP) by constructing a foundational model. Leveraging a Twitter Sentiment Dataset sourced from Kaggle, the aim was to predict the sentiment of text, specifically tweets. The primary goal was to initiate my journey into understanding how machines interpret human text and the methodologies involved in its analysis.
+
+Through this experience, I sought to grasp the fundamentals of NLP, exploring how machines comprehend and process textual information. This project was a captivating learning opportunity, providing invaluable insights into the intricate steps essential for building a robust sentiment analysis model.
+
+While this project marked the initial steps in my NLP exploration, it underscored the significance of continued learning. There remains an abundance to explore and comprehend in this dynamic field, and this foundational project serves as a springboard for delving into more sophisticated models and techniques in the future.
+  
+## Key Steps :
+
+**Data Preprocessing :** 
+- *Cleaning text data (remove hastags, @usernames, URL, stopWords...) & also replacing Emojis with words, using regex*
+- *Lemmatization using NLTK library (Natural Language Toolkit)*
+
+**Data representation** :
+- *Used Cloud Words to represent cleaned data*
+  
+**Feature Engineering :** 
+- *Utilizing CountVectorizer for creating bag-of-words representation of text data.*
+  
+**Model selection** : 
+- *Experimented with multiple machine learning models such as Naive Bayes, SVM. Conducted hyperparameter tuning and cross-validation to optimize model performance.*
+
+**Evaluation and Analysis :** 
+- *Evaluated models using various metrics like accuracy, precision, recall, F1-score & Matrix confusion.*
+- *Analyzed results using visualizations to understand strengths and weaknesses of each model.*
+- *Testing our model using a sample of random tweets to see how it perform*
+
+![](https://github.com/cebsmind/portfolio/blob/main/images/download%20-%20Copie.png?raw=true)
+
+
