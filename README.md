@@ -55,15 +55,15 @@
   - *Trained the model on the training dataset and evaluated its performance on the validation set.
   - *Monitored metrics such as accuracy, loss, and validation accuracy to gauge model performance..*
    
-* **Web scrapping & predict **:
+* **Web scrapping & prediction**:
   - *Used an API from "Unsplash" (image research) to scrap random cat & dogs images*
   - *Defined a function to predict if the images is a cat or a dog using my deep learning model*
 
-![](https://github.com/cebsmind/portfolio/blob/main/images/deeplearning.jpg?raw=true)
+  ![](https://github.com/cebsmind/portfolio/blob/main/images/deeplearning.jpg?raw=true)
 
 
 * **Conclusion :**
-  - The project prominently showcased the application of deep learning methodologies, specifically CNNs, in tackling image classification challenges. The strategic utilization of these techniques resulted in a robust and accurate model for distinguishing between cats and dogs based on visual data.
+  The project prominently showcased the application of deep learning methodologies, specifically CNNs, in tackling image classification challenges. The strategic utilization of these techniques resulted in a robust and accurate model for distinguishing between cats and dogs based on visual data.
 
 
 
