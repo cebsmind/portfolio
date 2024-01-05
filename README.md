@@ -30,7 +30,7 @@
   - *Interpreted model outcomes and discussed potential implications.*
   - *Used "Learning Curves" to have a better view of our model performance and see if our model is over fitting or not*
 
-![](https://github.com/cebsmind/portfolio/blob/main/images/Classification-of-two-classes-dog-and-cat-using-CNN.png?raw=true)
+![](https://github.com/cebsmind/portfolio/blob/main/images/download.png?raw=true)
 
 
 * **Submitted my predictions to Kaggle and ranked in the top 27% on the leaderboard**
@@ -59,7 +59,7 @@
   - *Used an API from "Unsplash" (image research) to scrap random cat & dogs images*
   - *Defined a function to predict if the images is a cat or a dog using my deep learning model*
 
-![](https://github.com/cebsmind/portfolio/blob/main/images/download.png?raw=true)
+![](https://github.com/cebsmind/portfolio/blob/main/images/deeplearning.jpg?raw=true)
 
 
 * **Conclusion :**
