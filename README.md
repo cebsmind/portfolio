@@ -53,7 +53,7 @@
    
 * **Web Scraping for Data Collection:**
   - *Accessed the Unsplash API to retrieve a wide array of cat and dog images.*
-  - *Utilized scraping techniques to acquire a diverse dataset, essential for training and testing the model*
+  - *Utilized scraping techniques to acquire a diverse dataset, essential for testing my model on new random images*
   
 * **Predictive Function for Image Classification:**
   - *Developed a function capable of loading the pre-trained deep learning model.*
