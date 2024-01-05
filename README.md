@@ -30,13 +30,47 @@
   - *Interpreted model outcomes and discussed potential implications.*
   - *Used "Learning Curves" to have a better view of our model performance and see if our model is over fitting or not*
 
-![](https://github.com/cebsmind/portfolio/blob/main/images/download.png?raw=true)
+![](https://github.com/cebsmind/portfolio/blob/main/images/Classification-of-two-classes-dog-and-cat-using-CNN.png?raw=true)
 
 
 * **Submitted my predictions to Kaggle and ranked in the top 27% on the leaderboard**
 
+# [PROJECT 2 : Image Classification : Cats vs Dogs ](https://github.com/cebsmind/portfolio/blob/main/Deep%20Learning%20CatDog.ipynb) 
+- [Data link (from kaggle)](https://www.kaggle.com/datasets/d4rklucif3r/cat-and-dogs)
+- [Python Note book code](https://github.com/cebsmind/portfolio/blob/main/Deep%20Learning%20CatDog.ipynb)
+  
+## Key steps :
 
-# [PROJECT 2 : Immunization (COVID-19) Project](https://public.tableau.com/app/profile/cebrail/viz/ImmunizationFlu/Tableaudebord1)
+* **Data Preparation**:
+  - *Organized the data into training, validation, and testing sets.
+  - *Used ImageDataGenerator for preprocessing, including resizing, normalization, image transformation etc*
+  - *Plotted random images with labels (cats/dogs) to gain insights into the dataset's content and structure*
+
+* **Model Building**:
+  - *Constructed a Convolutional Neural Network (CNN) architecture using TensorFlow's Keras API.*
+  - *Utilized Conv2D layers for feature extraction and MaxPooling2D for downsampling.*
+  - *Employed Dense layers for classification, ending with a sigmoid activation for binary output.*
+
+* **Model Evaluation**:
+  - *Trained the model on the training dataset and evaluated its performance on the validation set.
+  - *Monitored metrics such as accuracy, loss, and validation accuracy to gauge model performance..*
+   
+* **Web scrapping & predict **:
+  - *Used an API from "Unsplash" (image research) to scrap random cat & dogs images*
+  - *Defined a function to predict if the images is a cat or a dog using my deep learning model*
+
+![](https://github.com/cebsmind/portfolio/blob/main/images/download.png?raw=true)
+
+
+* **Conclusion :**
+  - The project prominently showcased the application of deep learning methodologies, specifically CNNs, in tackling image classification challenges. The strategic utilization of these techniques resulted in a robust and accurate model for distinguishing between cats and dogs based on visual data.
+
+
+
+
+
+
+# [PROJECT 3 : Immunization (COVID-19) Project](https://public.tableau.com/app/profile/cebrail/viz/ImmunizationFlu/Tableaudebord1)
 - [Data source](https://github.com/cebsmind/portfolio/tree/main/sql-data)
 - [SQL code](https://github.com/cebsmind/portfolio/blob/main/SQL-code)
 - [Tableau visualisation](https://public.tableau.com/app/profile/cebrail/viz/ImmunizationFlu/Tableaudebord1)
@@ -70,7 +104,7 @@
 ![](https://github.com/cebsmind/portfolio/blob/main/images/DataFluShots.png?raw=true)
 
 
-# [PROJECT 3 : Twitter Sentiment Analysis (NLP) :](https://github.com/cebsmind/portfolio/blob/main/Tweeter%20Sentiment%20Analysis%20Beginner.ipynb) 
+# [PROJECT 4 : Twitter Sentiment Analysis (NLP) :](https://github.com/cebsmind/portfolio/blob/main/Tweeter%20Sentiment%20Analysis%20Beginner.ipynb) 
 - [Data Set link (from kaggle)](https://www.kaggle.com/datasets/kazanova/sentiment140)
 - [Python Note book code](https://github.com/cebsmind/portfolio/blob/main/Tweeter%20Sentiment%20Analysis%20Beginner.ipynb)
 
