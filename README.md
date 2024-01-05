@@ -42,7 +42,7 @@
 ## Key steps :
 
 * **Data Preparation**:
-  - *Organized the data into training, validation, and testing sets.
+  - *Organized the data into training, validation, and testing sets.*
   - *Used ImageDataGenerator for preprocessing, including resizing, normalization, image transformation etc*
   - *Plotted random images with labels (cats/dogs) to gain insights into the dataset's content and structure*
 
@@ -52,12 +52,16 @@
   - *Employed Dense layers for classification, ending with a sigmoid activation for binary output.*
 
 * **Model Evaluation**:
-  - *Trained the model on the training dataset and evaluated its performance on the validation set.
+  - *Trained the model on the training dataset and evaluated its performance on the validation set.*
   - *Monitored metrics such as accuracy, loss, and validation accuracy to gauge model performance..*
    
-* **Web scrapping & prediction**:
-  - *Used an API from "Unsplash" (image research) to scrap random cat & dogs images*
-  - *Defined a function to predict if the images is a cat or a dog using my deep learning model*
+* **Web Scraping for Data Collection:**
+  - *Accessed the Unsplash API to retrieve a wide array of cat and dog images.*
+  - *Utilized scraping techniques to acquire a diverse dataset, essential for training and testing the model*
+  
+* **Predictive Function for Image Classification:**
+  - *Developed a function capable of loading the pre-trained deep learning model.*
+  - *Implemented the model within the function to make accurate predictions on new images sourced from Unsplash.*
 
   ![](https://github.com/cebsmind/portfolio/blob/main/images/deeplearning.jpg?raw=true)
 
