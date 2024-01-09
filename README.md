@@ -53,8 +53,8 @@
   - *Employed Dense layers for classification, ending with a sigmoid activation for binary output.*
 
 * **Utilized pre-built VGG16 model trained on ImageNet**:
-* - *Implemented alternative code for evaluation.*
-* - *Achieved superior accuracy and overall performance.*
+   - *Implemented alternative code for evaluation.*
+   - *Achieved superior accuracy and overall performance.*
    
 * **Web Scraping for Data Collection:**
   - *Accessed the Unsplash API to retrieve a wide array of cat and dog images.*
