@@ -51,6 +51,10 @@
   - *Constructed a Convolutional Neural Network (CNN) architecture using TensorFlow's Keras API.*
   - *Utilized Conv2D layers for feature extraction and MaxPooling2D for downsampling.*
   - *Employed Dense layers for classification, ending with a sigmoid activation for binary output.*
+
+* **Tested Pre Built Model**:
+* -*Did an alternative code to test a pre build model (VGG16 : trained on more than a million images from the ImageNet database)*
+* -*Got a better accuracy from a pre trained model and better performance overall*
    
 * **Web Scraping for Data Collection:**
   - *Accessed the Unsplash API to retrieve a wide array of cat and dog images.*
