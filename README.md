@@ -35,7 +35,7 @@
 
 * **Submitted my predictions to Kaggle and ranked in the top 27% on the leaderboard**
 
-# [PROJECT 2 : Image Classification : Cats vs Dogs ](https://github.com/cebsmind/portfolio/blob/main/Deep%20Learning%20CatDog.ipynb) 
+# [PROJECT 2 : Deep Learning Image Classification : Cats vs Dogs ](https://github.com/cebsmind/portfolio/blob/main/Deep%20Learning%20CatDog.ipynb) 
 - [Data link (from kaggle)](https://www.kaggle.com/datasets/d4rklucif3r/cat-and-dogs)
 - [Python Note book code](https://github.com/cebsmind/portfolio/blob/main/Deep%20Learning%20CatDog.ipynb)
 - [Code using Transfer Learning (Pre built model)](https://github.com/cebsmind/portfolio/blob/main/TransferLearningCatvsDogs.ipynb)
